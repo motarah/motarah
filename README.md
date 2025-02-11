@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @motarah
+- 👋 Hi, I’m Habib
 - 👀 I’m interested in ... learning about AI, Docker and Devops
 - 🌱 I’m currently learning ... Azure, refres of Java and dive into Phython
 - 💞️ I’m looking to collaborate on ... anything
